@@ -109,7 +109,6 @@ from time import (
     sleep,
     time
 )
-from zipfile import ZipFile
 
 
 # Color snippets
