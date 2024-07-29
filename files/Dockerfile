@@ -15,7 +15,7 @@ FROM debian:latest
 FROM python:3
 
 # Author info
-LABEL MAINTAINER="https://github.com/KasRoudra/PyPhisher"
+LABEL MAINTAINER="https://github.com/KasRoudra2/PyPhisher"
 
 # Working directory
 WORKDIR PyPhisher/
