@@ -14,7 +14,7 @@ setup(
     author='KasRoudra',
     author_email='kasroudrakrd@gmail.com',
     license="MIT",
-    url='https://github.com/KasRoudra/PyPhisher/',
+    url='https://github.com/KasRoudra2/PyPhisher/',
     scripts=['pyphisher'],
     install_requires=["requests", "rich"]
 )
